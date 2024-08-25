@@ -9,3 +9,11 @@ https://www.analyticsvidhya.com/blog/2024/01/ways-to-convert-python-scripts-to-e
 # Importing and Python Version
 Make sure all the python module is updated
 It simply use general modules to run it all
+
+# How to run the program
+Click on the System.py file and press the start button
+Thus, it should be started and load the data into the Billing system
+
+# Maximum Depth Recursion Error
+You could run the Setup file and allow the maximum depth to be expanded
+Run again the program
