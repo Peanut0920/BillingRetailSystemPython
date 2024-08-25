@@ -1,0 +1,50 @@
+[
+    {
+        "Receipt ID": 1,
+        "Time": "14:31:12",
+        "order": [
+            {
+                "Item": "Cola",
+                "Price": 9.0,
+                "Qty": 1,
+                "Remark": ""
+            },
+            {
+                "Item": "Ice Lemon",
+                "Price": 5.0,
+                "Qty": 1,
+                "Remark": ""
+            },
+            {
+                "Item": "Cola",
+                "Price": 9.0,
+                "Qty": 1,
+                "Remark": ""
+            },
+            {
+                "Item": "Ice Lemon",
+                "Price": 5.0,
+                "Qty": 1,
+                "Remark": ""
+            },
+            {
+                "Item": "FF",
+                "Price": 21.0,
+                "Qty": 3,
+                "Remark": ""
+            }
+        ]
+    },
+    {
+        "Receipt ID": 1,
+        "Time": "15:35:26",
+        "order": [
+            {
+                "Item": "Ice Lemon",
+                "Price": 10.0,
+                "Qty": 2,
+                "Remark": ""
+            }
+        ]
+    }
+]

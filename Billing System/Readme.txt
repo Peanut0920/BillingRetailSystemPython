@@ -1,0 +1,2 @@
+py to exe
+https://www.analyticsvidhya.com/blog/2024/01/ways-to-convert-python-scripts-to-exe-files/
