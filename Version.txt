@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------------------------------
+Version
+--------------------------------------------------------------------------------------------------------
+Python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+tkinter: 8.6
+pandas: 2.1.4
+hashlib: module
+datetime: 2024-09-03 13:40:19
+matplotlib: 3.8.0
+os: routines
+logging: package
+sklearn: 1.2.2
+numpy: 1.26.4
+decimal: decimal
+base64: Base32,
+tkcalendar: 1.5.0
+locale: support
+json: (JavaScript
+copy: (shallow
+--------------------------------------------------------------------------------------------------------
