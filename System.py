@@ -330,7 +330,7 @@ class RetailBillingSystem:
         file_menu.add_separator()
         self.fullscreen_mode = file_menu.add_command(label=translate("Fullscreen"), command=self.toggle_fullscreen)
         file_menu.add_command(label=translate("Exit"), command=self.exit_app)
-        file_menu.add_command(label=("Back To Table App"), command=self.back_to_table_app)
+        file_menu.add_command(label=translate("Back To Table App"), command=self.back_to_table_app)
         file_menu.add_command(label=translate("Back To Login"), command=lambda: login_out(self.root))
 
         # Manage menu
